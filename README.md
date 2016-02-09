@@ -2,7 +2,7 @@
 1. Checkout [THIS](https://github.com/jenkinsmeta/jenkinsmeta-docker.git) repository
 2. Update submodules with:
 ```
-git submodule foreach git pull origin master
+./up.sh
 ```
 3. Execute below line:
 ```
