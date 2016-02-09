@@ -9,8 +9,6 @@ web:
 server:
     build: ./jenkinsmeta-server
     command: python -m SimpleHTTPServer 9000
-    ports:
-        - "8000:8000"
     links:
         - worker
 
