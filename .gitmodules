@@ -1,0 +1,9 @@
+[submodule "jenkinsmeta-worker"]
+	path = jenkinsmeta-worker
+	url = https://github.com/jenkinsmeta/jenkinsmeta-worker
+[submodule "jenkinsmeta-web"]
+	path = jenkinsmeta-web
+	url = https://github.com/jenkinsmeta/jenkinsmeta-web
+[submodule "jenkinsmeta-server"]
+	path = jenkinsmeta-server
+	url = https://github.com/jenkinsmeta/jenkinsmeta-server
